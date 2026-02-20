@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+gunicorn
+pandas
+python-jose
+python-dotenv
+pydantic
+email-validator
+groq
