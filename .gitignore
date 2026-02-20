@@ -1,0 +1,41 @@
+.env
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual Environment
+# =========================
+myenv/
+venv/
+env/
+
+# =========================
+# Environment variables
+# =========================
+.env
+
+# =========================
+# Model files (optional - keep if large)
+# =========================
+model/*.pkl
+model/*.joblib
+
+# =========================
+# Data files (optional - remove if you want to track them)
+# =========================
+data/*.csv
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
