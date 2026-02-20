@@ -24,10 +24,6 @@ env/
 model/*.pkl
 model/*.joblib
 
-# =========================
-# Data files (optional - remove if you want to track them)
-# =========================
-data/*.csv
 
 # =========================
 # VS Code
